@@ -1,0 +1,43 @@
+body {
+	font-size: 18px;
+	font-family: 'Times New Roman', Times, serif;
+	color: white;
+	background-color: black; }
+
+#section {
+	max-width: 781px;
+	margin: 25px auto;
+	padding: 25px;
+	background-color: black; }
+
+h1 { 	
+	color: white;
+	font-size: 2.2em;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 30px; }
+
+h2 {
+	color: white;
+	font-size: 1.7em;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 15px; }
+
+
+	
+a:link, a:visited  	{color: rgb(103, 103, 255); text-decoration: none; }
+a:hover, a:active	{color: rgb(141, 141, 253); text-decoration: underline; }
+
+img {
+	max-width: 100%;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+figcaption {
+	font-size: 75%;
+	margin-bottom: 20px;
+}
